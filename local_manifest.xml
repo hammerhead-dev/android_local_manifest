@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+    <project name="hammerhead-dev/android_device_lge_hammerhead" path="device/lge/hammerhead" revision="cm-12.1" />
+    <project name="hammerhead-dev/android_kernel_lge_hammerhead" path="kernel/lge/hammerhead" revision="cm-12.1" />
+
+    <project path="device/qcom/common" name="CyanogenMod/android_device_qcom_common" revision="cm-12.1" />
+
+    <project name="hammerhead-dev/arm-cortex_a15-linux-linaro-4.9" path="prebuilts/gcc/linux-x86/arm/arm-cortex-a15-linux-gnueabihf-4.9-linaro" revision="cm-12.1" clone-depth="1" />
+    <project name="hammerhead-dev/arm-linux-androideabi-4.9" path="prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.9-linaro" revision="cm-12.1" clone-depth="1" />
+
+</manifest>
+
