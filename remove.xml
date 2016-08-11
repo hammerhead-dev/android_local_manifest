@@ -36,10 +36,8 @@
     <remove-project name="CyanogenMod/android_packages_apps_CMWallpapers" />
     <remove-project name="CyanogenMod/android_packages_apps_Exchange" />
     <remove-project name="CyanogenMod/android_packages_apps_FMRadio" />
-    <remove-project name="CyanogenMod/android_packages_apps_Gallery2" />
     <remove-project name="CyanogenMod/android_packages_apps_HTMLViewer" />
     <remove-project name="CyanogenMod/android_packages_apps_Profiles" />
-    <remove-project name="CyanogenMod/android_packages_apps_SetupWizard" />
     <remove-project name="CyanogenMod/android_packages_apps_SmartCardService" />
     <remove-project name="CyanogenMod/android_packages_apps_SoundRecorder" />
     <remove-project name="CyanogenMod/android_packages_apps_Stk" />
