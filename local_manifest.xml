@@ -9,5 +9,7 @@
 
     <project name="hammerhead-dev/arm-cortex_a15-linux-linaro-4.9" path="prebuilts/gcc/linux-x86/arm/arm-cortex_a15-linux-linaro-4.9" revision="cm-13.0" clone-depth="1" />
 
+    <project name="CyanogenMod/android_packages_apps_Browser" path="packages/apps/Browser" revision="cm-13.0" />
+
 </manifest>
 
