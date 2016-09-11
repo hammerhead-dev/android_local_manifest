@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
 
-    <project name="hammerhead-dev/android_device_lge_hammerhead" path="device/lge/hammerhead" revision="cm-13.0" />
-    <project name="hammerhead-dev/android_kernel_lge_hammerhead" path="kernel/lge/hammerhead" revision="cm-13.0" />
-    <project name="hammerhead-dev/android_vendor_lge_hammerhead" path="vendor/lge/hammerhead" revision="cm-13.0" />
+    <project name="hammerhead-dev/android_device_lge_hammerhead" path="device/lge/hammerhead" revision="cm-13.0" clone-depth="100" />
+    <project name="hammerhead-dev/android_kernel_lge_hammerhead" path="kernel/lge/hammerhead" revision="cm-13.0" clone-depth="100" />
+    <project name="hammerhead-dev/android_vendor_lge_hammerhead" path="vendor/lge/hammerhead" revision="cm-13.0" clone-depth="100" />
 
     <project path="device/qcom/common" name="CyanogenMod/android_device_qcom_common" revision="cm-13.0" />
 
