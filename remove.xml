@@ -42,6 +42,7 @@
     <remove-project name="CyanogenMod/android_packages_apps_SoundRecorder" />
     <remove-project name="CyanogenMod/android_packages_apps_Stk" />
     <remove-project name="CyanogenMod/android_packages_apps_Tag" />
+    <remove-project name="CyanogenMod/android_packages_apps_Gello" />
     <remove-project name="CyanogenMod/android_packages_apps_Terminal" />
     <remove-project name="CyanogenMod/android_packages_apps_TvSettings" />
     <remove-project name="CyanogenMod/android_packages_experimental" />
