@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
 
-    <!--<project name="hammerhead-dev/android_device_lge_hammerhead" path="device/lge/hammerhead" revision="cm-14.1" clone-depth="10" />-->
+    <project name="hammerhead-dev/android_device_lge_hammerhead" path="device/lge/hammerhead" revision="cm-14.1" clone-depth="10" />
     <project name="hammerhead-dev/android_kernel_lge_hammerhead" path="kernel/lge/hammerhead" revision="cm-14.1" clone-depth="5" />
     <project name="hammerhead-dev/android_vendor_lge_hammerhead" path="vendor/lge/hammerhead" revision="cm-14.1" clone-depth="5" />
 
