@@ -3,7 +3,7 @@
 
     <project name="hammerhead-dev/android_device_lge_hammerhead" path="device/lge/hammerhead" revision="cm-13.0" clone-depth="100" />
     <project name="hammerhead-dev/android_kernel_lge_hammerhead" path="kernel/lge/hammerhead" revision="cm-13.0" clone-depth="100" />
-    <project name="hammerhead-dev/android_vendor_lge_hammerhead" path="vendor/lge/hammerhead" revision="cm-13.0" clone-depth="100" />
+    <project name="hammerhead-dev/android_vendor_lge_hammerhead" path="vendor/lge/hammerhead" revision="cm-13.0" clone-depth="5" />
 
     <project path="device/qcom/common" name="CyanogenMod/android_device_qcom_common" revision="cm-13.0" />
 
