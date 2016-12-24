@@ -9,7 +9,6 @@
     <remove-project name="CyanogenMod/android_packages_providers_PartnerBookmarksProvider" />
     <remove-project name="CyanogenMod/android_packages_providers_BookmarkProvider" />
     <remove-project name="CyanogenMod/android_packages_apps_Tag" />
-    <remove-project name="CyanogenMod/android_packages_apps_Launcher3" />
     <remove-project name="CyanogenMod/android_packages_apps_HTMLViewer" />
     <remove-project name="CyanogenMod/android_packages_apps_EmergencyInfo" />
     <remove-project name="platform/packages/apps/BasicSmsReceiver" />
